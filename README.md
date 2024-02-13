@@ -1,7 +1,16 @@
 # A02 Create a Github Account with Git/Webstorm/Github/Tutorial. 
+
+|      Term     | Definition|
+| ------------- | ------------- |
+| Git           | Git is a distributed version control system (VSC) that tracks file changes and allows collaboration among multiple developers.  |
+| GitHub        | GitHub is a web-based platform for hosting Git repositories and collaborating on software development projects. It provides tools for version control, issue tracking, and project management.  |
+| WebStorm      | WebStorm is an Integrated Development Environment (IDE) developed by JetBrains. It provides a comprehensive set of tools for web development, including code editing, debugging, and version control integration.  |
+
+
+
 ## PART 1: Directions on Using Webstorm
 ### Step 1: Install Git and WebStorm
-  * Download Git from: [https://git-scm.com/](https://git-scm.com/)
+  * Download Git from: [https://git-scm.com/](https://git-scm.com/)                                                                   
     * Install Git for your OS
   * Download WebStrom from: [jetbrains.com/webstorm](https://www.jetbrains.com/webstorm/)
     * Install WebStrom for your OS
